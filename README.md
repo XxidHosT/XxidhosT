@@ -6,10 +6,10 @@
 <a href="https://skyfallen.org/">
   <img align="left" alt="theskyfallen.com" width="21px" src="https://avatars.githubusercontent.com/u/68555937?s=200&v=4" />
 </a>
-<a href="https://www.instagram.com/anujpflash/">
+<a href="https://www.instagram.com/meixgan/">
   <img align="left" alt="Bear's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/anujpflash/">
+<a href="https://www.linkedin.com/in/anujlash/">
   <img align="left" alt="Bear's's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -22,7 +22,7 @@ Hi, I'm Meixgan, My bussines name xxidhost, a passionate self-taught MERN Stack 
 - 📫 Reach me at [email](mailto:support@xxidhost.com) :)
 - 💬 I'm interested in **Cloud Computer**, **Web Development**, **Server Management**, and exploring different domains.
 - 😄 Pronouns: He/Him
-- 🧠 Currently a Sophomore at Vellore Institute of Technology, Vellore, pursuing Computer Science and Business Systems
+- 🧠 Currently a Sope at javmore Institute of Technology, javmore, pursuing Computer Science and Business Systems
 
 If you want to support the work I do, consider buying me a cup of coffee
 <a href="https://sociabuzz.com/meixganxstore">
@@ -62,10 +62,10 @@ If you want to support the work I do, consider buying me a cup of coffee
 
 ```text
 Go           38 hrs 5 mins   ████████████████████▒░░░░   81.59 %
-Markdown     3 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Bash         1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Python       1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-JSON         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown     3 hrs 13 mins   ████████░░░░░░░░░░░░░░   06.91 %
+Bash         1 hr 21 mins    ███████░░░░░░░░░░░░░░   02.92 %
+Python       1 hr 7 mins     ███████░░░░░░░░░   02.42 %
+JSON         1 hr 7 mins     █████████████░░░░░░░░░░░░░░░░░░░░░   02.41 %
 Docker       53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
