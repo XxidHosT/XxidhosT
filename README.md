@@ -1,35 +1,47 @@
-### Hi there <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
+<div align="center">
 
-<a href="https://support.tamako.tech/">
-  <img align="left" alt="Tamako Bot's Support Server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://skyfallen.org/">
-  <img align="left" alt="theskyfallen.com" width="21px" src="https://avatars.githubusercontent.com/u/68555937?s=200&v=4" />
-</a>
-<a href="https://www.instagram.com/meixgan/">
-  <img align="left" alt="Bear's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/anujlash/">
-  <img align="left" alt="Bear's's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img src="assets/banner.svg" alt="XXIDGAME - Toko Game Digital Indonesia" width="100%">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbearts%2Fbearts&label=Profile%20Views&labelColor=%231f2023&countColor=%237b78ff&style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&pause=1000&color=8A70FF&center=true&vCenter=true&width=640&lines=Key+game+original+dikirim+instan;Top+up+cepat+dan+aman;Harga+bersahabat+setiap+hari;Support+siap+membantu+24+jam" alt="Typing animation">
 
-<br />
+<br><br>
 
-Hi, I'm Meixgan, My bussines name xxidhost, a passionate self-taught MERN Stack Developer from Indonesia, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<a href="https://support.tamako.tech/"><img src="https://img.shields.io/badge/Discord-Support-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.instagram.com/meixgan/"><img src="https://img.shields.io/badge/Instagram-meixgan-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anujlash/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:support@xxidhost.com"><img src="https://img.shields.io/badge/Email-Hubungi-ff3d81?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 📫 Reach me at [email](mailto:support@xxidhost.com) :)
-- 💬 I'm interested in **Cloud Computer**, **Web Development**, **Server Management**, and exploring different domains.
-- 😄 Pronouns: He/Him
-- 🧠 Currently a Sope at javmore Institute of Technology, javmore, pursuing Computer Science and Business Systems
+<br>
 
-If you want to support the work I do, consider buying me a cup of coffee
-<a href="https://sociabuzz.com/meixganxstore">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20-coffee-ff5f5f?style=flat-square&logo=buy-me-a-coffee">
-</a>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbearts%2Fbearts&label=Profile%20Views&labelColor=%231f2023&countColor=%237b78ff&style=flat-square" alt="Visitors">
 
-**Technologies:**  
+</div>
+
+---
+
+## Tentang
+
+Halo, saya **Meixgan**, MERN Stack Developer otodidak dari Indonesia. Bisnis saya, **XXIDGAME**, menjual key game, top up, dan akun digital dengan pengiriman instan. Saya peduli pada pengalaman pengguna, arsitektur, dan kualitas kode dari semua yang saya bangun.
+
+- Minat: **Cloud Computing**, **Web Development**, **Server Management**
+- Pronouns: He/Him
+- Kuliah: Computer Science and Business Systems
+
+## Game Terlaris
+
+<div align="center">
+<img src="assets/games.svg" alt="Daftar game terlaris XXIDGAME" width="100%">
+</div>
+
+## Cara Beli
+
+| 01 Pilih game | 02 Bayar | 03 Terima key |
+|:---:|:---:|:---:|
+| Telusuri katalog dan pilih judul favoritmu | Transfer bank, e-wallet, atau QRIS | Key dikirim instan ke email dan halaman pesanan |
+
+## Teknologi
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -42,22 +54,21 @@ If you want to support the work I do, consider buying me a cup of coffee
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)     
-
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
-📊 **This Week I Spent my time on:**
+</div>
+
+## Minggu Ini Saya Mengerjakan
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -65,36 +76,16 @@ Go           38 hrs 5 mins   █████████████████
 Markdown     3 hrs 13 mins   ████████░░░░░░░░░░░░░░   06.91 %
 Bash         1 hr 21 mins    ███████░░░░░░░░░░░░░░   02.92 %
 Python       1 hr 7 mins     ███████░░░░░░░░░   02.42 %
-JSON         1 hr 7 mins     █████████████░░░░░░░░░░░░░░░░░░░░░   02.41 %
+JSON         1 hr 7 mins     █████████████░░░░░░░░░░░░░░░░░░░░   02.41 %
 Docker       53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
 
+## Dukung Saya
 
+Kalau kamu suka karya saya, traktir kopi lewat tombol di bawah.
 
+<a href="https://sociabuzz.com/meixganxstore"><img src="https://img.shields.io/badge/Buy%20me%20a%20-coffee-ff5f5f?style=for-the-badge&logo=buy-me-a-coffee"></a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="">
