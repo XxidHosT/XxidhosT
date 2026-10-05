@@ -1,94 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,20&height=300&section=header&text=MEIXGAN&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Server%20Management&descSize=20&descAlignY=62" width="100%" alt="Meixgan - DevOps Engineer">
+<img src="./assets/header.svg" width="100%" alt="meixgan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=2EE6A6&center=true&vCenter=true&width=700&height=40&lines=Automating+everything+that+can+be+automated;Infrastructure+as+Code+%7C+CI%2FCD+%7C+Containers;Building+reliable+and+scalable+systems;Self-taught+MERN+developer+from+Indonesia" alt="Typing animation">
+<br/>
 
-<br>
+<a href="https://xxidhost.com"><img src="https://img.shields.io/badge/xxidhost.com-0b0f17?style=flat-square&logo=safari&logoColor=2EE6A6&labelColor=0b0f17&color=1f2937" /></a>
+<a href="https://support.tamako.tech/"><img src="https://img.shields.io/badge/Discord-0b0f17?style=flat-square&logo=discord&logoColor=8A7DFF&color=1f2937" /></a>
+<a href="https://www.instagram.com/meixgan/"><img src="https://img.shields.io/badge/Instagram-0b0f17?style=flat-square&logo=instagram&logoColor=ff6b9d&color=1f2937" /></a>
+<a href="mailto:support@xxidhost.com"><img src="https://img.shields.io/badge/Email-0b0f17?style=flat-square&logo=gmail&logoColor=3AB8FF&color=1f2937" /></a>
+<img src="https://img.shields.io/github/followers/XxidHosT?style=flat-square&label=followers&labelColor=0b0f17&color=1f2937" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXxidHosT&label=views&labelColor=%230b0f17&countColor=%231f2937&style=flat-square" />
 
-<a href="https://support.tamako.tech/"><img src="https://img.shields.io/badge/Discord-Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://www.instagram.com/meixgan/"><img src="https://img.shields.io/badge/Instagram-meixgan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/anujlash/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:support@xxidhost.com"><img src="https://img.shields.io/badge/Email-Contact-2ee6a6?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+<br/><br/>
 
-<br><br>
-
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbearts%2Fbearts&label=Profile%20Views&labelColor=%231f2023&countColor=%237b78ff&style=flat-square" alt="Visitors">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1100&color=8B95A7&center=true&vCenter=true&width=640&height=30&lines=Automating+everything+that+can+be+automated;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Containers;Self-taught+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="typing" />
+</a>
 
 </div>
 
----
+<br/>
 
-## About
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Hi, I'm **Meixgan**, a self-taught DevOps and MERN Stack developer from Indonesia. I turn ideas into working systems: clean interfaces on top, automated and reliable infrastructure underneath. I care about the experience, architecture, and code quality of everything I build.
+**⚙️ Building**
 
-- Interested in **Cloud Computing**, **Web Development**, **Server Management**
-- Pronouns: He/Him
-- Studying Computer Science and Business Systems
+Automation tooling for the Pterodactyl game-server ecosystem, in Go, Node.js, and Bash.
+
+</td>
+<td width="33%" valign="top">
+
+**📚 Studying**
+
+Computer Science and Business Systems, plus cloud and infrastructure on the side.
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 Focus**
+
+Clean interfaces on top, automated and reliable infrastructure underneath.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1200&color=3AB8FF&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=720&height=170&lines=%24+whoami;meixgan;%24+cat+role.txt;devops+engineer+%2F+mern+developer;%24+systemctl+status+life;active+%28running%29+-+all+systems+operational" alt="Terminal animation">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,bash,py,js,ts,nodejs,react,graphql&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,bash,py,js,ts,nodejs,react,graphql&theme=dark&perline=8" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,git&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,git&theme=dark&perline=7" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,digitalocean,linux,ubuntu,nginx,prometheus,grafana,redis,postgres,mysql,mongodb&theme=light&perline=12" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,linux,ubuntu,nginx,prometheus,grafana,redis,postgres,mysql,mongodb&theme=dark&perline=12" />
+</picture>
 
 </div>
 
-## Workflow
+<br/>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/XxidHosT/Bot-Panel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=XxidHosT&repo=Bot-Panel&bg_color=0b0f17&title_color=2EE6A6&text_color=8b95a7&icon_color=3AB8FF&border_color=1f2937&border_radius=14" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/XxidHosT/Panel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=XxidHosT&repo=Panel&bg_color=0b0f17&title_color=2EE6A6&text_color=8b95a7&icon_color=3AB8FF&border_color=1f2937&border_radius=14" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/XxidHosT/egg-node.js">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=XxidHosT&repo=egg-node.js&bg_color=0b0f17&title_color=2EE6A6&text_color=8b95a7&icon_color=3AB8FF&border_color=1f2937&border_radius=14" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/XxidHosT/Pterodactyl-Script">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=XxidHosT&repo=Pterodactyl-Script&bg_color=0b0f17&title_color=2EE6A6&text_color=8b95a7&icon_color=3AB8FF&border_color=1f2937&border_radius=14" />
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Activity
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=8A7DFF&center=true&vCenter=true&width=720&height=50&lines=Commit+%3E+Build;Build+%3E+Test;Test+%3E+Deploy;Deploy+%3E+Monitor;Monitor+%3E+Improve+%3E+Repeat" alt="CI/CD flow">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=XxidHosT&show_icons=true&hide_border=false&count_private=true&bg_color=0b0f17&title_color=2EE6A6&text_color=8b95a7&icon_color=3AB8FF&ring_color=8A7DFF&border_color=1f2937&border_radius=14" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxidHosT&layout=compact&bg_color=0b0f17&title_color=2EE6A6&text_color=8b95a7&border_color=1f2937&border_radius=14" />
+
+<img src="https://streak-stats.demolab.com?user=XxidHosT&background=0b0f17&ring=8A7DFF&fire=2EE6A6&currStreakLabel=3AB8FF&sideLabels=8b95a7&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b95a7&stroke=1f2937&border=1f2937&border_radius=14" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XxidHosT&bg_color=0b0f17&color=8b95a7&line=2EE6A6&point=ffffff&area=true&area_color=2EE6A6&hide_border=true&custom_title=Contributions" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XxidHosT/XxidhosT/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XxidHosT/XxidhosT/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/XxidHosT/XxidhosT/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
-## Tech Stack
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,heroku,terraform,ansible,docker,kubernetes,githubactions,gitlab,bitbucket,git&perline=12" alt="Cloud and DevOps tools">
+<a href="https://sociabuzz.com/meixganxstore"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-0b0f17?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ff5f5f&color=1f2937" /></a>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,nginx,prometheus,grafana,raspberrypi,redis,postgres,mysql,mongodb&perline=11" alt="Servers and databases">
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=go,bash,py,js,ts,nodejs,react,graphql,cpp&perline=9" alt="Languages">
+<img src="./assets/footer.svg" width="100%" alt="footer" />
 
 </div>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bearts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearts&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
-
-<img src="https://streak-stats.demolab.com?user=bearts&theme=tokyonight&hide_border=true" alt="GitHub streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bearts&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph">
-
-</div>
-
-## This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-
-```text
-Go           38 hrs 5 mins   ████████████████████▒░░░░   81.59 %
-Markdown     3 hrs 13 mins   ████████░░░░░░░░░░░░░░   06.91 %
-Bash         1 hr 21 mins    ███████░░░░░░░░░░░░░░   02.92 %
-Python       1 hr 7 mins     ███████░░░░░░░░░   02.42 %
-JSON         1 hr 7 mins     █████████████░░░░░░░░░░░░░░░░░░░░   02.41 %
-Docker       53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-```
-
-<!--END_SECTION:waka-->
-
-## Support
-
-If you like what I do, consider buying me a coffee.
-
-<a href="https://sociabuzz.com/meixganxstore"><img src="https://img.shields.io/badge/Buy%20me%20a%20-coffee-ff5f5f?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy me a coffee"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=footer" width="100%" alt="">
